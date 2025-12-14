@@ -1,0 +1,10 @@
+# Format: KEYWORD_TYPE <tab> KEYWORD
+HI_SPI_24_BIT      KEYWORD1
+beginTransaction   KEYWORD2
+endTransaction     KEYWORD2
+transmit24Bit      KEYWORD2
+transfer24Bit      KEYWORD2
+SPI_MODE_0         LITERAL1
+SPI_MODE_1         LITERAL1
+SPI_MODE_2         LITERAL1
+SPI_MODE_3         LITERAL1
